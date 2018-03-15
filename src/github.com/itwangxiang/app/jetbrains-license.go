@@ -1,4 +1,4 @@
-package itwangxiang
+package main
 
 import (
 	"flag"
